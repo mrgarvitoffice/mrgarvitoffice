@@ -1,9 +1,9 @@
-<!-- Dynamic Typing Effect Header (simulate with emojis and formatting) -->
-<h1 align="center">
-  👋 Hi, I'm Garvit Agrawal<br>
-  <b><i>Full Stack Developer | AI Enthusiast | Prompt Engineer</i></b><br>
-  🚀 Creator of <a href="https://github.com/mrgarvitoffice/LearnMint-Ai">LearnMint</a>
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%7C+Prompt+Engineer+%7C+AI+Project+Builder;Built+LearnMint%2C+an+AI-powered+study+platform"/>
+  
+  <h1 align="center">Hi 👋, I'm Garvit Agrawal</h1>
+  <h3 align="center">B.Tech | Computer Science | SRIST | Full-Stack Developer passionate about AI-driven applications</h3>
+</div>
 
 ---
 ---
