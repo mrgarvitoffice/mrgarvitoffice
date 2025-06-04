@@ -12,7 +12,7 @@
 
 💡 I’m a passionate **Computer Science Engineering** student with a sharp focus on **AI-powered Web Apps**, keen on transforming ideas into impactful solutions.
 
-✨ Currently developing **LearnMint**, a full-stack AI dashboard using modern tech like **Next.js 15+, Firebase, Google Gemini (Genkit), Tailwind, React Query**, and more.
+✨ Currently developed **LearnMint**, a full-stack AI dashboard using modern tech like **Next.js 15+, Firebase, Google Gemini (Genkit), Tailwind, React Query**, and more.
 
 🌟 Committed to learning, improving, and creating clean, scalable code. I believe in **“Build fast, learn faster”**.
 
