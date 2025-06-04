@@ -1,12 +1,11 @@
----
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e81ce&height=200&section=header&text=Garvit%20Agrawal&fontSize=45&fontColor=ffffff"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%7C+Prompt+Engineer+%7C+AI+Project+Builder;Built+LearnMint%2C+an+AI-powered+study+platform"/>
+  
+  <h1 align="center">Hi 👋, I'm Garvit Agrawal</h1>
+  <h3 align="center">B.Tech | Computer Science | SRIST | Full-Stack Developer passionate about AI-driven applications</h3>
+</div>
 
-<h2 align="center">
-🚀 B.Tech CSE Student | 👨‍💻 AI-Driven App Developer | 🌱 Lifelong Learner
-</h2>
+---
 
 ---
 
